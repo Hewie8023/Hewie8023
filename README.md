@@ -1,7 +1,7 @@
 ### Hi there 👋
-
+<!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hewie8023&repo=JavaGuide&theme=radical)](https://github.com/Hewie8023/JavaGuide)
-
+-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hewie8023&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -11,8 +11,8 @@
 <a href="https://github.com/Hewie8023/JavaGuide">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hewie8023&repo=JavaGuide&theme=radical" />
 </a>
-<a href="https://github.com/Hewie8023/s-log-portal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hewie8023&repo=s-log-portal&theme=radical" />
+<a href="https://github.com/Hewie8023/advanced-java">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hewie8023&repo=advanced-java&theme=radical" />
 </a>
 
 <!--
