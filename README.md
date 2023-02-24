@@ -9,10 +9,10 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hewie8023&show_icons=true&theme=radical)
 
 <a href="https://github.com/Hewie8023/JavaGuide">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?Hewie8023&repo=JavaGuide&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hewie8023&repo=JavaGuide&theme=radical" />
 </a>
 <a href="https://github.com/Hewie8023/s-log-portal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hewie8023&repo=s-log-portal" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hewie8023&repo=s-log-portal&theme=radical" />
 </a>
 
 <!--
