@@ -14,6 +14,12 @@
 <a href="https://github.com/Hewie8023/advanced-java">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hewie8023&repo=advanced-java&theme=radical" />
 </a>
+<a href="https://github.com/Hewie8023/algorithm-pattern">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hewie8023&repo=algorithm-pattern&theme=radical" />
+</a>
+<a href="https://github.com/Hewie8023/LeetCodeAnimation">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hewie8023&repo=LeetCodeAnimation&theme=radical" />
+</a>
 
 <!--
 **Hewie8023/Hewie8023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
