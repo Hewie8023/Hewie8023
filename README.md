@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hewie8023&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hewie8023&repo=github-readme-stats&theme=radical)](https://github.com/Hewie8023/s-log-portal)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hewie8023&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hewie8023&show_icons=true&theme=radical)
 
